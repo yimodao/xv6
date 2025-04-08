@@ -1,0 +1,3 @@
+1.getpid,can get it without into kernel
+2.page0:user init code  page1:guard page for init code page2:user stack
+cant write into page1
